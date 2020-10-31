@@ -1,0 +1,22 @@
+[
+  {
+    "repository": "jomadeto/android_device_xiaomi_msm8953-common-1",
+    "target_path": "device/xiaomi/msm8953-common",
+    "branch": "11.0",
+    "remote": "github"
+  }
+
+  {
+    "repository": "yaap/kernel_xiaomi_tissot.git",
+    "target_path": "kernel/xiaomi/msm8953",
+    "branch": "eleven",
+    "remote": "github" 
+  }
+
+  {
+    "repository": "yaap/vendor_xiaomi",
+    "target_path": "vendor/xiaomi",
+    "branch": "eleven",
+    "remote": "github"
+  }
+]
